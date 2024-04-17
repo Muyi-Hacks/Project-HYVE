@@ -9,6 +9,6 @@ Wireframing: wireframing was the first to see where our web design can go. Mood 
 All Wireframes: https://www.figma.com/file/Rqp9gV4PFYsU3ngXqU6hcz/Project-Hyve?type=design&node-id=3%3A257&mode=design&t=ZE6IOUs7jZaTORpx-1
 
 
-Full website: https://quhyve.com/
+Full website: https://quhyve.com/ designed using figma
 
 
